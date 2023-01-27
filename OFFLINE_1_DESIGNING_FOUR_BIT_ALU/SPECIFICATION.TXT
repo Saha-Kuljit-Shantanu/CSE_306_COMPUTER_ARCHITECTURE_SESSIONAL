@@ -4,11 +4,11 @@ By thoroughly looking into the report, a clear idea of this Assignment will be o
 
 The following parameters are mentioned.
 
-1. Contributors
+# 1. Contributors
 
-2. Assignment Specification
+# 2. Assignment Specification
 
-3. Software Implementation 
+# 3. Software Implementation 
 
 4. IC count
 
