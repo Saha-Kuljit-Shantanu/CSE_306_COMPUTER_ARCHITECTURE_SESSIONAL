@@ -10,8 +10,8 @@ The following parameters are mentioned.
 
 # 3. Software Implementation 
 
-4. IC count
+# 4. IC count
 
-5. Libraries used
+# 5. Libraries used
 
-6. Group Discussions
+# 6. Group Discussions
