@@ -10,7 +10,7 @@ The following parameters are mentioned.
 
 **3. Software Implementation** 
 
-**4. IC count**
+**4. IC count** : 50+
 
 **5. Libraries used**
 
